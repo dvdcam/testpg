@@ -44,7 +44,7 @@ var app = {
         listeningElement.setAttribute('style', 'display:none;');
         receivedElement.setAttribute('style', 'display:block;');
 
-        alert("hello world");
+        alert("ciao mondo");
 
         console.log('Received Event: ' + id);
     }
